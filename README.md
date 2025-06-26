@@ -1,10 +1,10 @@
 # GCP-Shrimp
 
 <p align="center">
-<a href=""><img src="./_readme_images/IM1.PNG"></a> <a href=""><img src="./_readme_images/IM2.PNG"></a>
+<a href=""><img src="./_readme_images/IM1.png"></a> <a href=""><img src="./_readme_images/IM2.png"></a>
 </p>
 <p align="center">
-<a href=""><img src="./_readme_images/IM3.PNG"></a>    <a href=""><img src="./_readme_images/IM4.PNG"></a>
+<a href=""><img src="./_readme_images/IM3.png"></a>    <a href=""><img src="./_readme_images/IM4.png"></a>
 </p>
 
 **GCP-Shrimp** is a graphical desktop application designed to manage and automate data processing for the genetic evaluation of the Ecuadorian white shrimp (*Penaeus vannamei*). It was specifically developed to support the operational needs of the ECUANARIA project.
